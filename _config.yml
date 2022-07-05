@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
-github:
-  is_project_page: false
 title: Personal portfolio 
-description: Description
+description: Description 2
 name: ""
 title: null
+github:
+  is_project_page: false
