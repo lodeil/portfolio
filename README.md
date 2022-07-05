@@ -1,14 +1,14 @@
 # Some of my projects : 
 
-### [Extract from documents](https://github.com/lodeil/doc_extract_agent)
+### [⛏️ Extract from documents](https://github.com/lodeil/doc_extract_agent)
 - [app](https://lodeil-doc-extract-agent-app-jt8h81.streamlitapp.com/)  
-### [Parse documents](https://github.com/lodeil/doc_parse_agent) 
+### [📖 Parse documents](https://github.com/lodeil/doc_parse_agent) 
 - [app](https://lodeil-doc-parse-agent-app-spncoa.streamlitapp.com/) 
-### [Structure of documents](https://github.com/lodeil/structure_doc_agent)
+### [🧱 Structure of documents](https://github.com/lodeil/structure_doc_agent)
 - [app](https://huggingface.co/spaces/Delchiga/structure_doc_agent) 
-### [Universal Classifier](https://github.com/lodeil/universal_classifier) 
+### [🦉 Universal Classifier](https://github.com/lodeil/universal_classifier) 
 - [app](https://lodeil-universal-classifier-app-at1jtk.streamlitapp.com/) 
-### [The Namer Of Feelings](https://github.com/lodeil/the_namer_of_feelings) 
+### [🔵 The Namer Of Feelings](https://github.com/lodeil/the_namer_of_feelings) 
 - [app](https://lodeil-the-namer-of-feelings-app-c7it1h.streamlitapp.com/) 
 
 You can use the [editor on GitHub](https://github.com/lodeil/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
