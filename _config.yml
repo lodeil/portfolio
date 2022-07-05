@@ -2,5 +2,6 @@ theme: jekyll-theme-cayman
 description: some apps you can try
 name: "Page for apps"
 title: Portfolio
+universal_classifier_link: https://github.com/lodeil/universal_classifier
 github:
   is_project_page: false
