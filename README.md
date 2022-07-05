@@ -2,7 +2,7 @@
 # Details
 
 ### 🦉 Universal Classifier 
->The *Universal Classifier* allow you to classify any images you want between a chosen list of classes, through the web interface, you can input the classes and the images, then you will get each image returned with the associated classe
+>The *Universal Classifier* allow you to classify any images you want between any list of classes, through the web interface, you can input the classes and the images, then you will get each image returned with the associated classe
 >
 >*web application* : [[app]](https://lodeil-universal-classifier-app-at1jtk.streamlitapp.com/) 
 >
@@ -32,6 +32,6 @@
 ### 🧱 Structure of documents
 >The *Structure of documents* tool is an api that allow you to retrieve document structure from image. Drage'n drop an image of a form for example, then you will get the relevent zones marked with associated tags. 
 >
->*web application* : [[app]](https://lodeil-doc-extract-agent-app-jt8h81.streamlitapp.com/) 
+>*web application* : [[app]](https://huggingface.co/spaces/Delchiga/structure_doc_agent) 
 >
->*code repository* : [[source]](https://github.com/lodeil/structure_doc_agent) 
+>*code repository* : [[source]](https://huggingface.co/spaces/Delchiga/structure_doc_agent) 
