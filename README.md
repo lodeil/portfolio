@@ -2,12 +2,8 @@
 # Projects
 
 ### [⛏️ Extract from documents](https://lodeil-doc-extract-agent-app-jt8h81.streamlitapp.com/)
-   The *Extract from documents* is an easy-to-use interface for extracting the most relevent data from your documents, you can use it by drage'n drop the documents. 
-   link to the code repository : [[source]](https://github.com/lodeil/doc_extract_agent) 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-[[app]](https://lodeil-doc-extract-agent-app-jt8h81.streamlitapp.com/)  
-
+|      The *Extract from documents* is an easy-to-use interface for extracting the most relevent data from your documents, you can use it by drage'n drop the documents. 
+|      link to the code repository : [[source]](https://github.com/lodeil/doc_extract_agent) 
 ### [📖 Parse documents](https://github.com/lodeil/doc_parse_agent) 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 [[app]](https://lodeil-doc-parse-agent-app-spncoa.streamlitapp.com/) 
