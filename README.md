@@ -34,4 +34,4 @@
 >
 >*web application* : [[app]](https://huggingface.co/spaces/Delchiga/structure_doc_agent) 
 >
->*code repository* : [[source]](https://huggingface.co/spaces/Delchiga/structure_doc_agent) 
+>*code repository* : [[source]](https://huggingface.co/spaces/Delchiga/structure_doc_agent/tree/main) 
