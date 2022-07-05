@@ -1,7 +1,6 @@
 theme: jekyll-theme-cayman
-title: Personal portfolio 
-description: Description 2
-name: ""
-title: null
+description: some apps you can try
+name: "Page for apps"
+title: Portfolio
 github:
   is_project_page: false
