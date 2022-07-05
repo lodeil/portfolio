@@ -1,5 +1,3 @@
-# Some of my projects : 
-
 ### [⛏️ Extract from documents](https://github.com/lodeil/doc_extract_agent)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 [[app]](https://lodeil-doc-extract-agent-app-jt8h81.streamlitapp.com/)  
