@@ -1,4 +1,10 @@
-# Welcome :) :galaxy:
+# Some of my projects : 
+
+### [Extract from documents](https://github.com/lodeil/doc_extract_agent)
+### [Parse documents](https://github.com/lodeil/doc_parse_agent) 
+### [Structure of documents](https://github.com/lodeil/structure_doc_agent)
+### [Universal Classifier](https://github.com/lodeil/universal_classifier) 
+### [The Namer Of Feelings](https://github.com/lodeil/the_namer_of_feelings) 
 
 You can use the [editor on GitHub](https://github.com/lodeil/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
