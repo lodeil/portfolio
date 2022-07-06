@@ -1,5 +1,5 @@
 
-## Details
+# Details
 
 ### 🦉 Universal Classifier 
 >The *Universal Classifier* allow you to classify any images you want between any list of classes, through the web interface, you can input the classes and the images, then you will get each image returned with the associated classe
